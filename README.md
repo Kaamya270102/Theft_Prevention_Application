@@ -1,0 +1,2 @@
+# Theft_Prevention_Application
+A theft prevention system is made with the help of AI ( Artificial Intelligence ) and CNN ( Convolution Neural Network ). It’s main aim is to help an individual or a group of family members to get notified about the intrusion in the house or their property.  This system recognize the family members ( at least 1 ) as innocent and anyone apart from them ( the recognized faces ) as intruder. Also, once an intruder is identified, the system triggers an email with the picture captured.
